@@ -52,7 +52,9 @@ public class LoginPage extends ProjectSpecificMethods{
 	public HomePage clickLogin() {
 		//asfasf
 		click(eleLogin);
-		return new HomePage(driver, node, test);		
+		return new HomePage(driver, node, test);	
+		
+		//Learn how to resolve conflicts
 	}
 	
 	
